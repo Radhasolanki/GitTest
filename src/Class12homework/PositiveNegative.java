@@ -8,20 +8,20 @@ public class PositiveNegative {
             if (number>0)
 
             {
-               System.out.println("is a positive number");
+               System.out.println("108 is a positive number");
 
             }
             else
              if  (number<0)
 
              {
-                 System.out.println("is a negative number");
+                 System.out.println(" 108 is a negative number");
 
              }
 
           else
              {
-                 System.out.println("is zero");
+                 System.out.println("108 is zero");
              }
 
       }

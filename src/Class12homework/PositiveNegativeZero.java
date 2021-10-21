@@ -8,7 +8,7 @@ public class PositiveNegativeZero {
      if (number>0)
      {
 
-         System.out.println("is a positive number");
+         System.out.println("107 is a positive number");
      }
 
     else
@@ -17,7 +17,7 @@ public class PositiveNegativeZero {
 
         {
 
-            System.out.println("is a negative number");
+            System.out.println("107 is a negative number");
 
         }
 
@@ -25,7 +25,7 @@ public class PositiveNegativeZero {
           else {
 
 
-            System.out.println("is a zero ");
+            System.out.println("107 is a zero ");
 
 
         }

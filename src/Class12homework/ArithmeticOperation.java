@@ -8,11 +8,11 @@ public class ArithmeticOperation {
         int A = 40;
         int B = 50;
 
-        System.out.println(A+B);
-        System.out.println(A-B);
-        System.out.println(A*B);
-        System.out.println(A/B);
-        System.out.println(A%B);
+        System.out.println(A + B);
+        System.out.println(A - B);
+        System.out.println(A * B);
+        System.out.println(A / B);
+        System.out.println(A % B);
 
 
     }

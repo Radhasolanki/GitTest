@@ -51,7 +51,9 @@ public class SwitchCase {
                 System.out.println("December");
 
                 break;
-
+            default :
+                System.out.println("wrong month number");
+                break;
         }
     }
 

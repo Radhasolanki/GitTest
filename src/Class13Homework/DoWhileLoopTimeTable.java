@@ -12,7 +12,7 @@ public class DoWhileLoopTimeTable {
             i++;
         }
 
-        while(i<+10);
+        while(i<+11);
 
 
 
